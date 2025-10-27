@@ -1,0 +1,10 @@
+# 不要・秘密ファイルをGitに含めない
+.env
+.env.*
+config.php
+db.php
+/vendor/
+/composer.lock
+.DS_Store
+*.log
+*.swp
